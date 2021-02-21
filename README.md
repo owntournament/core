@@ -1,0 +1,2 @@
+# core
+Own Tournament Core
